@@ -48,3 +48,4 @@ end
 
 gem 'dotenv-rails' 
 gem 'line-bot-api'
+gem 'rexml', '~> 3.2', '>= 3.2.4'

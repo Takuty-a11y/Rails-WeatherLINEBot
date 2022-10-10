@@ -1,5 +1,7 @@
 FROM ruby:3.1.2
 
+ENV RAILS_ENV=production
+
 # データベース用にPostgreSQLをインストール
 RUN apt-get update -qq && apt-get install -y postgresql-client
 RUN mkdir /myapp
