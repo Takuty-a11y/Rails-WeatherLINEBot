@@ -1,24 +1,14 @@
-# README
+# 都道府県の天気をお知らせする LINEBot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+LINE メッセージで都道府県名と「今日」「明日」「明後日」を送信すると
+天気をお知らせします。
 
-Things you may want to cover:
+[こちらから友達追加できます](https://lin.ee/iFHFmPm)
 
-* Ruby version
+<img src="https://qr-official.line.me/sid/M/823ortwq.png?shortenUrl=true">
 
-* System dependencies
+## 参考
 
-* Configuration
+こちらの教材をもとにして作成しております。
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [雨が降る日の朝にメッセージを送ってくれる LINE bot を作ってみよう！](https://www.techpit.jp/courses/38)
