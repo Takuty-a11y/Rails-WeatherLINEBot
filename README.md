@@ -5,8 +5,6 @@ LINE メッセージで都道府県名と「今日」「明日」「明後日」
 
 [こちらから友達追加できます](https://lin.ee/iFHFmPm)
 
-<img src="https://qr-official.line.me/sid/M/823ortwq.png?shortenUrl=true">
-
 ## 参考
 
 こちらの教材をもとにして作成しております。
